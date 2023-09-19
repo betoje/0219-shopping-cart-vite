@@ -1,4 +1,4 @@
-<h1><img src="rect.svg" alt="react logo" width=25> 0219-shopping-cart-vite</h1>
+<h1><img src="react.svg" alt="react logo" width=25> 0219-shopping-cart-vite</h1>
 
 ## Shopping Cart basic example
 
